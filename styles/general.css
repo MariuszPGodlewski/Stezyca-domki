@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding-top: 150px;
+    font-family: Libre Baskerville, Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+header, main, footer {
+    flex: 1;
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

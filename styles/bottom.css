@@ -1,0 +1,47 @@
+footer{
+    margin-top: 40px;
+    border-top: 2px solid white;
+    height: 400px;
+    background-color: rgba(10, 10, 10, 0.9);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+#bottom-photo {
+    height: 100px;
+}
+
+.bot{
+    flex: 1;
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+
+.bot h3 {
+    padding-bottom: 15px;
+}
+
+.contact-list{
+    line-height: 1.5rem;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.minilogo{
+    height: 11px;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    #bottom-photo {
+        display: none;
+    }
+}
