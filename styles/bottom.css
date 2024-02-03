@@ -44,4 +44,9 @@ footer{
     #bottom-photo {
         display: none;
     }
+    .contact-list{
+        line-height: 1rem;
+        font-size: 0.7rem;
+        text-align: left;
+    }
 }
