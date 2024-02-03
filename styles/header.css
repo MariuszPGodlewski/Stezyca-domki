@@ -29,9 +29,12 @@
     height: 90px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 726px) {
     #herb{
         display: none;
+    }
+    header{
+        font-size: 10px;
     }
     .header{
         column-gap: 5%;
