@@ -33,9 +33,6 @@
     #herb{
         display: none;
     }
-    header{
-        font-size: 10px;
-    }
     .header{
         column-gap: 5%;
         position:absolute
